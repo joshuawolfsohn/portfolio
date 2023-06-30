@@ -1,0 +1,3 @@
+# Respect the rules!
+User-agent: *
+Disallow: /files/
